@@ -26,7 +26,7 @@ public class NewBehaviourScript : MonoBehaviour {
 		{
 			gameObject.GetComponent<Renderer>().material.color = Color.red;
 			//I would like it to call the multiplyByTwo function when the r button is pressed, but is not working
-
+			 
 		}
 
 
