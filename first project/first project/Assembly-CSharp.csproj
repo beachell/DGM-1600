@@ -46,7 +46,12 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\FlyScript.cs" />
+     <Compile Include="Assets\FlyScrpt.cs" />
+     <Compile Include="Assets\ForEach.cs" />
+     <Compile Include="Assets\ForLoop.cs" />
      <Compile Include="Assets\NewBehaviourScript.cs" />
+     <Compile Include="Assets\SyntaxAndConvetions.cs" />
      <Compile Include="Assets\WhileLoop.cs" />
      <Compile Include="Assets\doWhileScript.cs" />
      <Compile Include="Assets\pass_off_script.cs" />

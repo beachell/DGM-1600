@@ -22,13 +22,13 @@ public class NewBehaviourScript : MonoBehaviour {
 	void Update () {
 
 		//changes the color of the cube when r key is pressed.
-		if (Input.GetKeyDown (KeyCode.R)) 
+	/*	if (Input.GetKeyDown (KeyCode.R)) 
 		{
 			gameObject.GetComponent<Renderer>().material.color = Color.red;
 			//I would like it to call the multiplyByTwo function when the r button is pressed, but is not working
 			 
 		}
-
+*/
 
 	}
 }
