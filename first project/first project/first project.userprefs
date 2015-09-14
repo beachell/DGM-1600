@@ -1,15 +1,15 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FlyScrpt.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../FlyScript.cs">
     <Files>
-      <File FileName="Assets/FlyScrpt.cs" Line="14" Column="2" />
-      <File FileName="Assets/FlyScript.cs" Line="19" Column="4" />
+      <File FileName="Assets/FlyScript.cs" Line="33" Column="6" />
+      <File FileName="../../../FlyScript.cs" Line="32" Column="4" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
           <Node name="Assembly-CSharp" expanded="True">
-            <Node name="FlyScrpt.cs" selected="True" />
+            <Node name="FlyScript.cs" selected="True" />
           </Node>
         </State>
       </Pad>
