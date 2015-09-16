@@ -74,6 +74,7 @@
 'Assets/FlyScrpt.cs'
 'Assets/ForEach.cs'
 'Assets/ForLoop.cs'
+'Assets/IfStatements.cs'
 'Assets/NewBehaviourScript.cs'
 'Assets/SyntaxAndConvetions.cs'
 'Assets/WhileLoop.cs'

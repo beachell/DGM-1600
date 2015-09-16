@@ -50,6 +50,7 @@
      <Compile Include="Assets\FlyScrpt.cs" />
      <Compile Include="Assets\ForEach.cs" />
      <Compile Include="Assets\ForLoop.cs" />
+     <Compile Include="Assets\IfStatements.cs" />
      <Compile Include="Assets\NewBehaviourScript.cs" />
      <Compile Include="Assets\SyntaxAndConvetions.cs" />
      <Compile Include="Assets\WhileLoop.cs" />
