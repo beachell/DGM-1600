@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\ClassesAndData.cs" />
      <Compile Include="Assets\FlyScript.cs" />
      <Compile Include="Assets\FlyScrpt.cs" />
      <Compile Include="Assets\ForEach.cs" />
@@ -53,6 +54,7 @@
      <Compile Include="Assets\IfStatements.cs" />
      <Compile Include="Assets\LoopsScritps.cs" />
      <Compile Include="Assets\NewBehaviourScript.cs" />
+     <Compile Include="Assets\Scopes.cs" />
      <Compile Include="Assets\SyntaxAndConvetions.cs" />
      <Compile Include="Assets\WheeeeLoops.cs" />
      <Compile Include="Assets\WhileLoop.cs" />

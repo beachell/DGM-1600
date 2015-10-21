@@ -10,14 +10,12 @@ public class WheeeeLoops : MonoBehaviour {
 
 	void Start () {
 		//for
-		for (int i = 0; i<enemies; i++) 
-		{
-			Debug.Log ("we made an enemy" +i);
+		for (int i = 0; i<enemies; i++) {
+			Debug.Log ("we made an enemy" + i);
 		}
 		//while
-		while (enemies>0) 
-		{
-			Debug.Log("we killed an enemy sir");
+		while (enemies>0) {
+			Debug.Log ("we killed an enemy sir");
 			--enemies;
 		}
 
@@ -29,6 +27,7 @@ public class WheeeeLoops : MonoBehaviour {
 		} while (shootTheGun == true);
 
 		//foreach
+
 
 		string[] strings = new string[4];
 		
