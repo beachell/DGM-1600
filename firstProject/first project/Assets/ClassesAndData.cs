@@ -38,8 +38,37 @@ public class ClassesAndData : MonoBehaviour {
 	
 	}
 }*/
+	public class Cannon
+	{
+	public int ammo;
 
-	public int cannons;
+		public Cannon (int shots)
+		{
+			ammo = shots;
+		}
 
-	
+		public Cannon ()
+		{
+			ammo = 4;
+		}
+
+	}
+
+	public Cannon myCannon = new Cannon(8);
+
+	void Start()
+	{
+		Debug.Log (myCannon.ammo);
+		/*
+		int num1 = 5;
+		int num2 = num1;
+		num2 = 10;
+
+		Cannon myCannon = new Cannon(8);
+		Cannon cannon2 = myCannon;
+		cannon2.ammo = 100;
+*/
+	}
+
+
 }
