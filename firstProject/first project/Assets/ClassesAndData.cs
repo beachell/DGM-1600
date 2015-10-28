@@ -54,7 +54,7 @@ public class ClassesAndData : MonoBehaviour {
 
 	}
 
-	public Cannon myCannon = new Cannon(8);
+	public Cannon myCannon = new Cannon(5);
 
 	void Start()
 	{
