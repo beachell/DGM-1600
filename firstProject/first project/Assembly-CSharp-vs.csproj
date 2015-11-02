@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\ArrayScript.cs" />
      <Compile Include="Assets\ClassesAndData.cs" />
+     <Compile Include="Assets\Enumerataion.cs" />
      <Compile Include="Assets\FlyScript.cs" />
      <Compile Include="Assets\FlyScrpt.cs" />
      <Compile Include="Assets\ForEach.cs" />
