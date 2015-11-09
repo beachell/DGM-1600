@@ -1,6 +1,6 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ArrayScript.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SwitchState.cs">
     <Files>
       <File FileName="Assets/pass_off_script.cs" Line="1" Column="1" />
       <File FileName="Assets/LoopsScritps.cs" Line="1" Column="1" />
@@ -8,12 +8,13 @@
       <File FileName="Assets/Scopes.cs" Line="1" Column="1" />
       <File FileName="Assets/ClassesAndData.cs" Line="1" Column="1" />
       <File FileName="Assets/ArrayScript.cs" Line="30" Column="28" />
+      <File FileName="Assets/SwitchState.cs" Line="10" Column="26" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
           <Node name="Assembly-CSharp" expanded="True">
-            <Node name="ArrayScript.cs" selected="True" />
+            <Node name="SwitchState.cs" selected="True" />
           </Node>
         </State>
       </Pad>
