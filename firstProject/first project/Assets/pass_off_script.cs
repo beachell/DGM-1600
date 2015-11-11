@@ -25,3 +25,5 @@ public class pass_off_script : MonoBehaviour {
 
 
 }
+
+Greet();

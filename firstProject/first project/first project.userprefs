@@ -11,7 +11,7 @@
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State />
+        <State expanded="True" selected="True" />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
