@@ -30,8 +30,10 @@ public class NewBehaviourScript : MonoBehaviour {
 			int totalKills = killCount;
 
 			Destroy(this.gameObject);
-			totalKills ++;
-			Debug.Log (totalKills);
+			//totalKills ++;
+			//Debug.Log (totalKills);
+
+			//Spawn_captured_Duck;
 
 
 
