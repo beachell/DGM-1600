@@ -73,6 +73,8 @@
 'Assets/DirectionChanger.cs'
 'Assets/DuckMovement.cs'
 'Assets/Duck_Script.cs'
+'Assets/Kill_Zone.cs'
+'Assets/Life.cs'
 'Assets/NewBehaviourScript.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Xml.Linq.dll'

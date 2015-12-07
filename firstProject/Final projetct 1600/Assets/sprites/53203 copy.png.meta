@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: af7493e7fdf404ee989ea1300389236e
+timeCreated: 1449528950
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 53203 copy_0
+    21300002: 53203 copy_1
+    21300004: 53203 copy_2
+    21300006: 53203 copy_3
+    21300008: 53203 copy_4
+    21300010: 53203 copy_5
+    21300012: 53203 copy_6
+    21300014: 53203 copy_7
+    21300016: 53203 copy_8
+    21300018: 53203 copy_9
+    21300020: 53203 copy_10
+    21300022: 53203 copy_11
+    21300024: 53203 copy_12
+    21300026: 53203 copy_13
+    21300028: 53203 copy_14
+    21300030: 53203 copy_15
+    21300032: 53203 copy_16
+    21300034: 53203 copy_17
+    21300036: 53203 copy_18
+    21300038: 53203 copy_19
+    21300040: 53203 copy_20
+    21300042: 53203 copy_21
+    21300044: 53203 copy_22
+    21300046: 53203 copy_23
+    21300048: 53203 copy_24
+    21300050: 53203 copy_25
+    21300052: 53203 copy_26
+    21300054: 53203 copy_27
+    21300056: 53203 copy_28
+    21300058: 53203 copy_29
+    21300060: 53203 copy_30
+    21300062: 53203 copy_31
+    21300064: 53203 copy_32
+    21300066: 53203 copy_33
+    21300068: 53203 copy_34
+    21300070: 53203 copy_35
+    21300072: 53203 copy_36
+    21300074: 53203 copy_37
+    21300076: 53203 copy_38
+    21300078: 53203 copy_39
+    21300080: 53203 copy_40
+    21300082: 53203 copy_41
+    21300084: 53203 copy_42
+    21300086: 53203 copy_43
+    21300088: 53203 copy_44
+    21300090: 53203 copy_45
+    21300092: 53203 copy_46
+    21300094: 53203 copy_47
+    21300096: 53203 copy_48
+    21300098: 53203 copy_49
+    21300100: 53203 copy_50
+    21300102: 53203 copy_51
+    21300104: 53203 copy_52
+    21300106: 53203 copy_53
+    21300108: 53203 copy_54
+    21300110: 53203 copy_55
+    21300112: 53203 copy_56
+    21300114: 53203 copy_57
+    21300116: 53203 copy_58
+    21300118: 53203 copy_59
+    21300120: 53203 copy_60
+    21300122: 53203 copy_61
+    21300124: 53203 copy_62
+    21300126: 53203 copy_63
+    21300128: 53203 copy_64
+    21300130: 53203 copy_65
+    21300132: 53203 copy_66
+    21300134: 53203 copy_67
+    21300136: 53203 copy_68
+    21300138: 53203 copy_69
+    21300140: 53203 copy_70
+    21300142: 53203 copy_71
+    21300144: 53203 copy_72
+    21300146: 53203 copy_73
+    21300148: 53203 copy_74
+    21300150: 53203 copy_75
+    21300152: 53203 copy_76
+    21300154: 53203 copy_77
+    21300156: 53203 copy_78
+    21300158: 53203 copy_79
+    21300160: 53203 copy_80
+    21300162: 53203 copy_81
+    21300164: 53203 copy_82
+    21300166: 53203 copy_83
+    21300168: 53203 copy_84
+    21300170: 53203 copy_85
+    21300172: 53203 copy_86
+    21300174: 53203 copy_87
+    21300176: 53203 copy_88
+    21300178: 53203 copy_89
+    21300180: 53203 copy_90
+    21300182: 53203 copy_91
+    21300184: 53203 copy_92
+    21300186: 53203 copy_93
+    21300188: 53203 copy_94
+    21300190: 53203 copy_95
+    21300192: 53203 copy_96
+    21300194: 53203 copy_97
+    21300196: 53203 copy_98
+    21300198: 53203 copy_99
+    21300200: 53203 copy_100
+    21300202: 53203 copy_101
+    21300204: 53203 copy_102
+    21300206: 53203 copy_103
+    21300208: 53203 copy_104
+    21300210: 53203 copy_105
+    21300212: 53203 copy_106
+    21300214: 53203 copy_107
+    21300216: 53203 copy_108
+    21300218: 53203 copy_109
+    21300220: 53203 copy_110
+    21300222: 53203 copy_111
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 53203 copy_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 249
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 249
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 249
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 249
+        width: 25
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 249
+        width: 24
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 249
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 249
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 249
+        width: 28
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 249
+        width: 30
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 248
+        width: 32
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_10
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 248
+        width: 32
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_11
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 248
+        width: 32
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 118
+        width: 30
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 118
+        width: 28
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 118
+        width: 25
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 118
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 118
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 118
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 118
+        width: 25
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_19
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 118
+        width: 24
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 118
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_21
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 118
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_22
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 118
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 118
+        width: 25
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_24
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 118
+        width: 24
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 48
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 48
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_27
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 48
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_29
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 48
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_30
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 48
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_31
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 48
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_32
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 48
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_33
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 48
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_34
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 48
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_35
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 48
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_36
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 48
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_37
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 48
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_39
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 14
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_40
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 12
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_41
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 8
+        width: 5
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_42
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 31
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_44
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 31
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_45
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_46
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_47
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_48
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_49
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 31
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_50
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_51
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_52
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 31
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_53
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_54
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_55
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_56
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 29
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_57
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 31
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_58
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 30
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_59
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 31
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_60
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_61
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 29
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_62
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 29
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_63
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 31
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_65
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 31
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_66
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 29
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_67
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 31
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_68
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 30
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_69
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_70
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_71
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 29
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_72
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 31
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_73
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_74
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_75
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 31
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_76
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 29
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_77
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_78
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_79
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_80
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_81
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_82
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 17
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_83
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 17
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_84
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 17
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_85
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 19
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_86
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 19
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_87
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 19
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_88
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_89
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 19
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_90
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_91
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_92
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 17
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_93
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 19
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_94
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_95
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 19
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_96
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_97
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 19
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_98
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 19
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_99
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_100
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_101
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_102
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_103
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 19
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_104
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_105
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_106
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_108
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_109
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_110
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 53203 copy_111
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
